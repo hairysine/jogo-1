@@ -1,7 +1,7 @@
 
 function dialogo()
     love.graphics.setColor(0, 0, 255)    
-    love.graphics.print("tipo isso e um jogo?", 30, 30)
+    love.graphics.print("tipo isso e um jogo??", 30, 30)
 
     love.graphics.setColor(0, 255, 0)    
     love.graphics.print("nao sei provaveme", 30, 60)  
